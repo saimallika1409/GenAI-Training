@@ -1,0 +1,179 @@
+Training on genai :                                        17-11-2025
+GIT AND GITHUB:
+🔹 Definition
+Git
+Git is a version control system used to track changes in source code.
+It helps developers manage code history, work on different versions, and collaborate efficiently.
+👉 Works locally on your computer.
+GitHub
+GitHub is a cloud-based platform that uses Git.
+It allows developers to store, share, and collaborate on Git repositories online.
+👉 Works online (on the internet).
+ DIFFERENCES:
+🔹 Differences Between Git and GitHub
+Feature	Git	GitHub
+Type	Version Control System	Hosting & Collaboration Platform
+Usage	Tracks code changes	Hosts Git repositories
+Internet	Not required	Required
+Installation	Installed on local machine	Used via browser/app
+Purpose	Manage source code versions	Share code & collaborate
+Created by	Linus Torvalds	Microsoft
+Example	git commit, git push	Pull requests, issues
+
+
+
+Code for portfolio without react js and only with html and css in vs
+•	Go to floder
+•	Open training folder
+•	Create file
+•	Create html.css
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Header -->
+  <header class="header">
+    <h1>Sai Mallika</h1>
+    <p>Web Developer | Fresher</p>
+  </header>
+
+  <!-- About Section -->
+  <section class="section">
+    <h2>About Me</h2>
+    <p>
+      I am a passionate web developer with good knowledge of HTML and CSS.
+      I am eager to learn new technologies and build real-world projects.
+    </p>
+  </section>
+
+  <!-- Skills Section -->
+  <section class="section">
+    <h2>Skills</h2>
+    <div class="skills">
+      <span>HTML</span>
+      <span>CSS</span>
+      <span>JavaScript</span>
+      <span>Git</span>
+      <span>GitHub</span>
+    </div>
+  </section>
+
+  <!-- Projects Section -->
+  <section class="section">
+    <h2>Projects</h2>
+
+    <div class="project">
+      <h3>Portfolio Website</h3>
+      <p>Personal portfolio website using HTML and CSS.</p>
+    </div>
+
+    <div class="project">
+      <h3>Countdown Web App</h3>
+      <p>Multi-event countdown application.</p>
+    </div>
+  </section>
+
+  <!-- Contact Section -->
+  <section class="section">
+    <h2>Contact</h2>
+    <p>Email: example@gmail.com</p>
+    <p>GitHub: github.com/yourusername</p>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <p>© 2025 Sai Mallika. All Rights Reserved.</p>
+  </footer>
+
+</body>
+</html>
+
+•	Style.css
+/* General Styles */
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f4f6f8;
+  color: #333;
+}
+
+/* Header */
+.header {
+  background-color: #0d6efd;
+  color: #fff;
+  text-align: center;
+  padding: 40px 20px;
+}
+
+/* Section */
+.section {
+  max-width: 900px;
+  margin: auto;
+  padding: 40px 20px;
+}
+
+.section h2 {
+  color: #0d6efd;
+  margin-bottom: 15px;
+}
+
+/* Skills */
+.skills span {
+  display: inline-block;
+  background-color: #e9ecef;
+  padding: 8px 15px;
+  margin: 6px;
+  border-radius: 20px;
+  font-size: 14px;
+}
+
+/* Projects */
+.project {
+  background-color: #ffffff;
+  padding: 20px;
+  margin: 15px 0;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+/* Footer */
+.footer {
+  background-color: #212529;
+  color: white;
+  text-align: center;
+  padding: 15px;
+}
+
+•	Go to file manager 
+•	Open training file 
+•	Click and copy path 
+•	Go back and type there cmd
+•	Path opens as cmd
+•	In cmd check version git –version
+•	git init
+•	git add .
+•	git commit -m “my first commit”
+id we get creat creat mode then your files are saved.
+If not 
+•	git configure -global user.email “ saichetkuir289@gmail.com”
+•	git configure -global user.name “saimallika1409”
+•	go to now githun and create repository
+•	go to cmd next command git remote add origin https://github.com/saimallika1409/GenAI-Training.git
+•	git branch
+•	git branch -m master
+•	git push -u origin master
+•	sign in to github
+•	click on green button authorize 
+•	it shows 100% successful
+•	open github  refresh it it shows two files 
+•	open settings 
+•	open pages
+•	branch non to master and save it 
+•	change domain name 
+•	visit site
+
