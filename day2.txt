@@ -1,0 +1,16 @@
+18-12-25
+
+SEO:
+search engine optimization - these are the techniquesi
+
+git pull origin master
+git push -u origin master
+
+after this go the settings and got the collaborations
+then In the collaborations click on the add people 
+so add the username or the email then click on the invite
+if we need to download the code from the gtihub then click on the code then in that click download zip
+Pull request:
+A Pull Request is a request sent to the repository owner to review and merge code changes into the main project
+
+admin --> settings --> collaborators --> 
